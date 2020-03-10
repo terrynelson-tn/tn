@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Blackjack {
     public static void main (String[] args)
     {
-        Scanner myScanner = new Scanner(System.in);
+        Scanner myScanner = new Scanner(System.in); //github comment
 
 
         float percentWins;
